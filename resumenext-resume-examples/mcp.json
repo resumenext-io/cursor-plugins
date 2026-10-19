@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "resumenext-resume-examples": {
+      "type": "http",
+      "url": "https://resumenext.io/api/grok/resume-examples/mcp"
+    }
+  }
+}

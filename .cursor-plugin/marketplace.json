@@ -1,0 +1,53 @@
+{
+  "name": "resumenext",
+  "owner": {
+    "name": "ResumeNext",
+    "email": "support@resumenext.io"
+  },
+  "metadata": {
+    "description": "Resume, cover letter and job application tools for Cursor, via the ResumeNext MCP servers.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "resumenext-ats-resume-checker",
+      "source": "resumenext-ats-resume-checker",
+      "description": "Get your resume's ATS score out of 100, the issues to fix first, and a link that opens it in the ResumeNext resume builder. No sign-in."
+    },
+    {
+      "name": "resumenext-job-match",
+      "source": "resumenext-job-match",
+      "description": "Compare your resume with a job post: matched and missing keywords, coverage, a job-tailored ATS score, and an editable copy with the job attached. No sign-in."
+    },
+    {
+      "name": "resumenext-cover-letter",
+      "source": "resumenext-cover-letter",
+      "description": "Score your cover letter out of 100 against a fixed checklist, read example letters for your role, and open the final letter in the ResumeNext cover letter editor. No sign-in."
+    },
+    {
+      "name": "resumenext-resignation-letter",
+      "source": "resumenext-resignation-letter",
+      "description": "Get a resignation letter in a standard, formal or grateful style from your company and last day, ready to edit and save as PDF, DOCX or TXT in ResumeNext. No sign-in."
+    },
+    {
+      "name": "resumenext-linkedin-resume",
+      "source": "resumenext-linkedin-resume",
+      "description": "Score your LinkedIn profile out of 100 for the role you want, see what to fix first, and turn it into a resume that opens in the ResumeNext editor. No sign-in."
+    },
+    {
+      "name": "resumenext-resume-examples",
+      "source": "resumenext-resume-examples",
+      "description": "Find resume examples for your role and the right resume template for your profile, each opening in the ResumeNext editor as a starting point. No sign-in."
+    },
+    {
+      "name": "resumenext-resume-bullet-points",
+      "source": "resumenext-resume-bullet-points",
+      "description": "Check resume bullet points line by line for action verbs, numbers, first person and phrases to delete, and get action verbs by type of work. No sign-in."
+    },
+    {
+      "name": "resumenext-resume-skills",
+      "source": "resumenext-resume-skills",
+      "description": "Get the skills recruiters expect for your role and see which ones your resume lists and shows in your work, lists only, shows only, or misses. No sign-in."
+    }
+  ]
+}

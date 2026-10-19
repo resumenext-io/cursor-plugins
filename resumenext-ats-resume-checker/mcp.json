@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "resumenext-ats-resume-checker": {
+      "type": "http",
+      "url": "https://resumenext.io/api/grok/resume/mcp"
+    }
+  }
+}

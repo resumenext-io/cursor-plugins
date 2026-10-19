@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "resumenext-cover-letter": {
+      "type": "http",
+      "url": "https://resumenext.io/api/grok/cover-letter/mcp"
+    }
+  }
+}

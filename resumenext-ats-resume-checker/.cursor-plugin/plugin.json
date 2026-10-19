@@ -1,0 +1,37 @@
+{
+  "name": "resumenext-ats-resume-checker",
+  "displayName": "ATS Resume Checker & Resume Builder - ResumeNext",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Get your resume's ATS score out of 100, the issues to fix first, and a link that opens it in the ResumeNext resume builder. No sign-in.",
+  "author": {
+    "name": "ResumeNext",
+    "email": "support@resumenext.io"
+  },
+  "homepage": "https://resumenext.io/mcp#resume",
+  "repository": "https://github.com/resumenext-io/cursor-plugins",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "resume",
+    "ats",
+    "ats-checker",
+    "resume-checker",
+    "resume-builder",
+    "resume-score",
+    "cv",
+    "job-search",
+    "career",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "resume",
+    "ats",
+    "career",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
