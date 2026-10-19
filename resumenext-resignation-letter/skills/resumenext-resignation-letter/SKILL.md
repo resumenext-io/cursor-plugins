@@ -33,4 +33,4 @@ This skill uses the `resumenext-resignation-letter` MCP server from this plugin:
 
 ## Pricing
 
-The plugin and its tools are free and need no account. Editing the letter in ResumeNext and saving it as PDF, DOCX or TXT is free; on the free plan the file carries a ResumeNext watermark, which ResumeNext Pro removes ($1.95 for 3 days, then $14.95 a month until you cancel, https://resumenext.io/pricing).
+The plugin and its tools are free and need no account. Editing the letter in ResumeNext and saving it as PDF, DOCX or TXT is free; on the free plan the file carries a ResumeNext watermark, which ResumeNext Pro removes ($1 for 3 days, then $29.95 a month until you cancel, https://resumenext.io/pricing).
