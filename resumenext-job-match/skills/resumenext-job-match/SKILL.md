@@ -36,4 +36,4 @@ This skill uses the `resumenext-job-match` MCP server from this plugin: `match_r
 
 ## Pricing
 
-The plugin and its tools are free and need no account. Building and editing a resume in ResumeNext is free. Downloading the finished resume as PDF or Word needs ResumeNext Pro: $1 for 3 days, then $29.95 a month until you cancel (https://resumenext.io/pricing).
+The plugin and its tools are free and need no account. Building and editing a resume in ResumeNext is free. Downloading the finished resume as PDF or Word needs ResumeNext Pro: $1 for 7 days, then $29.99 a month until you cancel (https://resumenext.io/pricing).

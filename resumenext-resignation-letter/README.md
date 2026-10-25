@@ -47,7 +47,7 @@ The plugin connects to the ResumeNext MCP server at `https://resumenext.io/api/g
 
 ## Pricing
 
-The plugin and its tools are free and need no account. Editing the letter in ResumeNext and saving it as PDF, DOCX or TXT is free; on the free plan the file carries a ResumeNext watermark, which ResumeNext Pro removes ($1 for 3 days, then $29.95 a month until you cancel, https://resumenext.io/pricing).
+The plugin and its tools are free and need no account. Editing the letter in ResumeNext and saving it as PDF, DOCX or TXT is free; on the free plan the file carries a ResumeNext watermark, which ResumeNext Pro removes ($1 for 7 days, then $29.99 a month until you cancel, https://resumenext.io/pricing).
 
 ## Data and privacy
 
